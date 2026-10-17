@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@x402-treasury/shared": "workspace:*",
-    "fastify": "^5.2.0"
+    "fastify": "^5.12.7"
   },
   "devDependencies": {
     "@x402/core": "2.27.0",
